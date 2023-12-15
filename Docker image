@@ -1,0 +1,4 @@
+# Build the Docker image
+docker build -t nodejs-image-name:tag .
+docker build -t my-node-app:1.0 .
+
